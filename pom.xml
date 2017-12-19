@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<spring.version>3.2.8.RELEASE</spring.version>
+		<spring.version>4.2.1.RELEASE</spring.version>
 	</properties>
 
 	<dependencies>
@@ -207,11 +207,11 @@
 				<artifactId>ezmorph</artifactId>
 				<version>1.0.6</version>
 			</dependency>
-			<dependency>
+<!--  			<dependency>
 				<groupId>com.mhome</groupId>
 				<artifactId>gson-mini</artifactId>
 				<version>1.0</version>
-			</dependency>
+			</dependency>  -->
 			<dependency>
 				<groupId>com.google.code.gson</groupId>
 				<artifactId>gson</artifactId>
