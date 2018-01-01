@@ -88,6 +88,10 @@
         <spring-boot.version>1.5.6.RELEASE</spring-boot.version>
         <spring.version>4.2.1.RELEASE</spring.version>
         <joda-time.version>2.9.9</joda-time.version>
+        <asm.version>5.0.4</asm.version>
+        <protostuff-core.version>1.4.2</protostuff-core.version>
+        <jedis.version>2.9.0</jedis.version>
+        <taglibs-standard-impl.version>1.2.5</taglibs-standard-impl.version>
 
         <maven-compiler-plugin.version>2.3.2</maven-compiler-plugin.version>
         <maven-source-plugin.version>2.2.1</maven-source-plugin.version>
@@ -458,6 +462,31 @@
                 <groupId>com.alisoft</groupId>
                 <artifactId>alisoft-xplatform-asf-cache</artifactId>
                 <version>${alisoft-xplatform-asf-cache.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.ow2.asm</groupId>
+                <artifactId>asm</artifactId>
+                <version>${asm.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.protostuff</groupId>
+                <artifactId>protostuff-core</artifactId>
+                <version>${protostuff-core.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.protostuff</groupId>
+                <artifactId>protostuff-runtime</artifactId>
+                <version>${protostuff-core.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>redis.clients</groupId>
+                <artifactId>jedis</artifactId>
+                <version>${jedis.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.taglibs</groupId>
+                <artifactId>taglibs-standard-impl</artifactId>
+                <version>${taglibs-standard-impl.version}</version>
             </dependency>
             <!-- 139新增jar -->
             <dependency>
