@@ -1,7 +1,13 @@
 ## tdl-base
-tdl-base 是一个jar版本统一库
+tdl-base 是 tdl 组织中其他相关 tdl 项目jar版本统一库
 
 ### How do I use tdl-base?
+在本地Repository中安装jar
+```sh
+git clone https://github.com/TwoDragonLake/tdl-base.git
+cd tdl-base
+mvn install
+```
 
 ### Contributing
 
