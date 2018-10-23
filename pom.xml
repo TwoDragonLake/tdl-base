@@ -11,6 +11,8 @@
 
 
     <properties>
+        <start-class>com.xx.webapps.api.main.WebappsApiBidMain</start-class>
+
         <maven-compiler-plugin.version>2.3.2</maven-compiler-plugin.version>
         <maven-source-plugin.version>2.2.1</maven-source-plugin.version>
         <log4j-log4j.version>1.2.16</log4j-log4j.version>
@@ -30,8 +32,9 @@
         <commons-lang3.version>3.4</commons-lang3.version>
         <fastjson.version>1.2.4</fastjson.version>
         <commons-beanutils.version>1.9.2</commons-beanutils.version>
-<spring-jdbc.version>4.3.11.RELEASE</spring-jdbc.version>
-        <start-class>com.xx.webapps.api.main.WebappsApiBidMain</start-class>
+        <spring-jdbc.version>4.3.11.RELEASE</spring-jdbc.version>
+
+        <lombok.version>1.16.18</lombok.version>
     </properties>
 
     <parent>
@@ -185,6 +188,13 @@
                 <groupId>javax.servlet</groupId>
                 <artifactId>javax.servlet-api</artifactId>
                 <version>3.1.0</version>
+            </dependency>
+
+            <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>${lombok.version}</version>
             </dependency>
 
         </dependencies>
