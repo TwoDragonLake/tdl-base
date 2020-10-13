@@ -170,7 +170,7 @@
         <log4j-log4j.version>1.2.16</log4j-log4j.version>
         <dom4j.version>1.6.1</dom4j.version>
         <freemarker.version>2.3.20</freemarker.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <org.apache.poi.version>3.17</org.apache.poi.version>
         <jfire-baseutil.version>1.0</jfire-baseutil.version>
         <htmlparser.version>1.6</htmlparser.version>
