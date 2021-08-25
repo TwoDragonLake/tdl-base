@@ -191,7 +191,7 @@
         <org.ostermiller.utils.version>1.07.00</org.ostermiller.utils.version>
         <ant.version>1.7.0</ant.version>
         <jexcelapi.jxl.version>2.6</jexcelapi.jxl.version>
-        <xstream.version>1.3.1</xstream.version>
+        <xstream.version>1.4.18</xstream.version>
         <alisoft-xplatform-asf-cache.version>2.5.2_1</alisoft-xplatform-asf-cache.version>
         <com.mail139.openid.version>1.0.0</com.mail139.openid.version>
         <jasperreports.version>3.1.0</jasperreports.version>
