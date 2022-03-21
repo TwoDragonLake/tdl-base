@@ -196,7 +196,7 @@
         <com.mail139.openid.version>1.0.0</com.mail139.openid.version>
         <jasperreports.version>3.1.0</jasperreports.version>
         <com.Ostermiller.version>1.05.00</com.Ostermiller.version>
-        <dubbo.version>2.5.3</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <zkclient.version>0.1</zkclient.version>
         <druid.version>1.0.4</druid.version>
         <slf4j-log4j12.version>1.6.1</slf4j-log4j12.version>
