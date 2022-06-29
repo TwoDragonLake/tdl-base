@@ -171,7 +171,7 @@
         <dom4j.version>1.6.1</dom4j.version>
         <freemarker.version>2.3.20</freemarker.version>
         <junit.version>4.12</junit.version>
-        <org.apache.poi.version>3.17</org.apache.poi.version>
+        <org.apache.poi.version>4.1.1</org.apache.poi.version>
         <jfire-baseutil.version>1.0</jfire-baseutil.version>
         <htmlparser.version>1.6</htmlparser.version>
         <urlrewrite.version>3.2.0</urlrewrite.version>
