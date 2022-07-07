@@ -202,7 +202,7 @@
         <slf4j-log4j12.version>1.6.1</slf4j-log4j12.version>
         <cglib.version>3.1</cglib.version>
 
-        <jetty-server.version>9.2.22.v20170606</jetty-server.version>
+        <jetty-server.version>10.0.10</jetty-server.version>
         <hessian.version>4.0.38</hessian.version>
         <httpclient.version>4.3.6</httpclient.version>
 
